@@ -1,5 +1,6 @@
 # TY_AIML_Project_EV_DynamicCharging
 EV Charging Analytics & Dynamic Pricing System
+
 *1. Project Title & Objective*
 Title: Smart EV Charging Analytics with Dynamic Pricing, CO₂ Impact Calculator & Reward System
 Objective:
