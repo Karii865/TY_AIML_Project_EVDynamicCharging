@@ -1,5 +1,6 @@
 
 EV CHARGING ANALYTICS & DYNAMIC PRICING SYSTEM
+
 An end-to-end Machine Learning + Time Series + GUI based system that predicts EV charging cost, performs demand forecasting, identifies user behavior clusters, computes CO₂ savings, applies dynamic pricing, and presents everything with a Tkinter dashboard.
 
 Project Overview
