@@ -1,13 +1,13 @@
 # TY_AIML_Project_EV_DynamicCharging
 EV Charging Analytics & Dynamic Pricing System
-1. Project Title & Objective
+*1. Project Title & Objective*
 
 Title: Smart EV Charging Analytics with Dynamic Pricing, CO₂ Impact Calculator & Reward System
 
 Objective:
 To develop a machine-learning–powered EV charging system that predicts energy demand, calculates dynamic charging prices, estimates environmental impact (CO₂ savings), and rewards users with Green Points. The system integrates supervised learning, time-series forecasting, clustering, and a Tkinter-based GUI for real-time charging simulation.
 
-2. Dataset Details
+*2. Dataset Details*
 
 The project uses a synthetic + enhanced realistic EV charging dataset, containing:
 
@@ -39,7 +39,7 @@ Grid renewable energy & CO₂ factors (CEA/BEE India)
 
 Total records: ~2500+ realistic sessions
 
-3. Algorithm / Models Used
+*3. Algorithm / Models Used*
 Preprocessing
 
 Missing value handling
@@ -74,7 +74,7 @@ Reward points (Green Points)
 
 Ensures minimum price: ₹5
 
-4. Results (Accuracy, Graphs, etc.)
+*4. Results (Accuracy, Graphs, etc.)*
 
 Random Forest R² Score: ~0.89
 
@@ -96,7 +96,7 @@ Cluster visualization
 
 GUI screenshots
 
-5. Conclusion
+*5. Conclusion*
 
 The system accurately predicts charging cost using ML models.
 
@@ -108,7 +108,7 @@ Reward system increases user engagement and sustainable behavior.
 
 GUI provides an easy-to-use simulation interface for real-time experimentation.
 
-6. Future Scope
+*6. Future Scope*
 
 Integration with real-time API-based grid data
 
@@ -122,7 +122,7 @@ Load balancing for large-scale EV fleets
 
 Blockchain-based reward tokenization
 
-7. References
+*7. References*
 
 Kaggle – EV Charging Station Dataset
 
